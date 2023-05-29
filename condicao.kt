@@ -1,4 +1,4 @@
-fun condicao() {
+fun main() {
   println("Qual sua idade?")
   var idade = readLine()!!
   println("Sua idade é: "+idade)
